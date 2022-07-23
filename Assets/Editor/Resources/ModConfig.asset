@@ -15,6 +15,6 @@ MonoBehaviour:
   title: Fractal Modules
   author: Obvious
   description: Welcome to the world of infinity!
-  version: 2.0
+  version: 2.2
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 7eb8515df5229e94dade518cb449357e, type: 3}
+  previewImage: {fileID: 2800000, guid: 3f8a8baa293b14949ae56fdf70d3f020, type: 3}
